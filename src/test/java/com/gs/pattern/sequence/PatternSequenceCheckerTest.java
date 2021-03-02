@@ -1,7 +1,7 @@
 package com.gs.pattern.sequence;
 
-import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.*;
+import org.junit.Test;
 
 public class PatternSequenceCheckerTest {
 
